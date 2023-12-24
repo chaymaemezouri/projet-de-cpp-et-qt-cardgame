@@ -1,0 +1,12 @@
+debug/ClickableLabel.o
+debug/card.o
+debug/deck.o
+debug/game.o
+debug/main.o
+debug/mainwindow.o
+debug/player.o
+debug/startdialog.o
+debug/qrc_image1.o
+debug/moc_ClickableLabel.o
+debug/moc_mainwindow.o
+debug/moc_startdialog.o

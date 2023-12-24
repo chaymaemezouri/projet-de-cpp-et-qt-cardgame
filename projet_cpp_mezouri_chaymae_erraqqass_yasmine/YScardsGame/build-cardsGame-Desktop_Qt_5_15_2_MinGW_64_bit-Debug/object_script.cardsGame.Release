@@ -1,0 +1,12 @@
+release/ClickableLabel.o
+release/card.o
+release/deck.o
+release/game.o
+release/main.o
+release/mainwindow.o
+release/player.o
+release/startdialog.o
+release/qrc_image1.o
+release/moc_ClickableLabel.o
+release/moc_mainwindow.o
+release/moc_startdialog.o
